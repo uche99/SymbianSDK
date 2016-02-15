@@ -17,8 +17,7 @@ NG = N-Gage, NGQD = N-Gage QD
 # SDK
 
 
-A N-Gage Sdk existed and even had multiple version but it was not obtainable without a contract with Nokia. The N-Gage being a part of the s60 phone series, there is a chance we could use / gain some information from the s60 sdk.
-The Reference and the install guide of the N-Gage sdk are available (see "Documentation") 
+A N-Gage Sdk existed and even had multiple version but it was not obtainable without a contract with Nokia but the th reference and the install guide of the N-Gage sdk are available (see "Documentation"). The N-Gage being a part of the s60 phone series, there is a chance we could use / gain some information from the s60 sdk.
 
 
 * [s60 SDK v5](http://www.mediafire.com/download/mbahmx9nyry45vj/S60_5th_SDK_ASP_v1.0.1.zip)
@@ -31,7 +30,7 @@ The last version of the firmware seems to be 4.03. Here is a link of available d
 
 * [Nokia NGAGE Flash Files](http://www.freeflashfile.com/nokia.php?opt=bm9raWEvRENUNC9OR0FHRS5ORU0tNA%3D%3D)
 * [NEM-4_0403_Ngage.exe](http://www.4shared.com/file/FGyn2kWL/NEM-4_0403_Ngage.html)
-* [Collection of Nokia's firmware (seems dead))[http://forum.gsmhosting.com/vbb/6329670-post3.html]
+* [Collection of Nokia's firmware (seems dead)](http://forum.gsmhosting.com/vbb/6329670-post3.html)
 
 
 **Note:** The exe is a self-extracting zip
