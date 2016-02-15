@@ -31,6 +31,7 @@ The last version of the firmware seems to be 4.03. Here is a link of available d
 
 * [Nokia NGAGE Flash Files](http://www.freeflashfile.com/nokia.php?opt=bm9raWEvRENUNC9OR0FHRS5ORU0tNA%3D%3D)
 * [NEM-4_0403_Ngage.exe](http://www.4shared.com/file/FGyn2kWL/NEM-4_0403_Ngage.html)
+* [Collection of Nokia's firmware (seems dead))[http://forum.gsmhosting.com/vbb/6329670-post3.html]
 
 
 **Note:** The exe is a self-extracting zip
