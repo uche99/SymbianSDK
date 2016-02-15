@@ -26,9 +26,11 @@ A N-Gage Sdk existed and even had multiple version but it was not obtainable wit
 
 # Firmware
 
-The last version of the firmware seems to be 4.03. Here is a link of available downloads found from the net but nothing has been tested:
+The version 4.03 is the most available version to download. Versions 4.10 and 4.11 also seems to exist but have problems ([source](http://my-symbian.com/forum/viewtopic.php?t=19466))
 
-* [Nokia NGAGE Flash Files](http://www.freeflashfile.com/nokia.php?opt=bm9raWEvRENUNC9OR0FHRS5ORU0tNA%3D%3D)
+Here is a link of available downloads found from the net but nothing has been tested:
+
+* [NG 4.03 Flash Files](http://www.freeflashfile.com/nokia.php?opt=bm9raWEvRENUNC9OR0FHRS5ORU0tNA%3D%3D)
 * [NEM-4_0403_Ngage.exe](http://www.4shared.com/file/FGyn2kWL/NEM-4_0403_Ngage.html)
 * [Collection of Nokia's firmware (seems dead)](http://forum.gsmhosting.com/vbb/6329670-post3.html)
 
