@@ -11,7 +11,7 @@ NG = N-Gage, NGQD = N-Gage QD
 # CPU
 
 
-* [Arm CPU Reference manual](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.ddi0151c/I71066.html) 
+* [ARM920T Technical Reference Manual](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.ddi0151c/I71066.html) 
 
 
 # SDK
