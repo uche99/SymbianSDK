@@ -33,6 +33,9 @@ The last version of the firmware seems to be 4.03. Here is a link of available d
 * [NEM-4_0403_Ngage.exe](http://www.4shared.com/file/FGyn2kWL/NEM-4_0403_Ngage.html)
 
 
+**Note:** The exe is a self-extracting zip
+
+
 # Documentations
 
 * [N-Gage QD service manual and schematics](http://www.cpkb.org/wiki/Nokia_N-Gage_QD_service_manual_and_schematics_download)
