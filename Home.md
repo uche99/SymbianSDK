@@ -3,7 +3,7 @@ NG = N-Gage, NGQD = N-Gage QD
 
 # Descriptions
 
-* [NG Wikipedia article](https://en.wikipedia.org/wiki/N-Gage)
+* [NG Wikipedia article](https://en.wikipedia.org/wiki/N-Gage_(device))
 * [NGQD Wikipedia article](https://en.wikipedia.org/wiki/N-Gage_QD)
 * [NQD User manual](http://www.manualslib.com/manual/112327/Nokia-N-Gage-Qd.html?page=4#manual)
 * [N-Gage QD service manual and schematics](http://www.cpkb.org/wiki/Nokia_N-Gage_QD_service_manual_and_schematics_download)
