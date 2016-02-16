@@ -6,7 +6,7 @@ NG = N-Gage, NGQD = N-Gage QD
 * [NG Wikipedia article](https://en.wikipedia.org/wiki/N-Gage_(device))
 * [NGQD Wikipedia article](https://en.wikipedia.org/wiki/N-Gage_QD)
 * [NQD User manual](http://www.manualslib.com/manual/112327/Nokia-N-Gage-Qd.html?page=4#manual)
-* [N-Gage QD service manual and schematics](http://www.cpkb.org/wiki/Nokia_N-Gage_QD_service_manual_and_schematics_download)
+* [NQD service manual and schematics](http://www.cpkb.org/wiki/Nokia_N-Gage_QD_service_manual_and_schematics_download)
 
 # CPU
 
@@ -17,7 +17,7 @@ NG = N-Gage, NGQD = N-Gage QD
 # SDK
 
 
-A N-Gage Sdk existed and even had multiple version but it was not obtainable without a contract with Nokia but the th reference and the install guide of the N-Gage sdk are available (see "Documentation"). The N-Gage being a part of the s60 phone series, there is a chance we could use / gain some information from the s60 sdk.
+A N-Gage SDK existed and even had multiple version but it was not obtainable without a contract with Nokia but the the reference and the install guide of the N-Gage sdk are available (see "Documentation"). The N-Gage being a part of the s60 phone series, there is a chance we could use / gain some information from the s60 SDK.
 
 
 * [s60 SDK v5](http://www.mediafire.com/download/mbahmx9nyry45vj/S60_5th_SDK_ASP_v1.0.1.zip)
@@ -40,9 +40,9 @@ Here is a link of available downloads found from the net but nothing has been te
 
 # Documentations
 
-* [N-Gage QD service manual and schematics](http://www.cpkb.org/wiki/Nokia_N-Gage_QD_service_manual_and_schematics_download)
-* [N-Gage SDK Reference & Other technical references](https://techwriter79.wikispaces.com/Nokia)
-* [N-Gage SDK install guide](https://techwriter79.wikispaces.com/file/view/NGage_SDK_2.1_Installation_Guide.pdf)
+* [NQD service manual and schematics](http://www.cpkb.org/wiki/Nokia_N-Gage_QD_service_manual_and_schematics_download)
+* [NG SDK Reference & Other technical references](https://techwriter79.wikispaces.com/Nokia)
+* [NG SDK install guide](https://techwriter79.wikispaces.com/file/view/NGage_SDK_2.1_Installation_Guide.pdf)
 * [Archive of Symbian C++ docs](http://web.archive.org/web/20141028092534/http://developer.nokia.com/community/wiki/Symbian_C%2B%2B)
 
 # Miscellaneous
