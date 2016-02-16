@@ -54,3 +54,4 @@ Here is a link of available downloads found from the net but nothing has been te
 # Miscellaneous
 
 * [[Ru] Install a game on a N-Gage](http://rutracker.org/forum/viewtopic.php?t=329313)
+* [Create a sis app using python](http://www.mobilenin.com/pys60/info_standalone_application.htm)
