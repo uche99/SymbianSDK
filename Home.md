@@ -45,6 +45,12 @@ Here is a link of available downloads found from the net but nothing has been te
 * [NG SDK install guide](https://techwriter79.wikispaces.com/file/view/NGage_SDK_2.1_Installation_Guide.pdf)
 * [Archive of Symbian C++ docs](http://web.archive.org/web/20141028092534/http://developer.nokia.com/community/wiki/Symbian_C%2B%2B)
 
+
+# Tools
+
+* [Sisexplorer, open and explore .sis files](http://www.symbian-toys.com/sisxplorer.aspx)
+
+
 # Miscellaneous
 
 * [[Ru] Install a game on a N-Gage](http://rutracker.org/forum/viewtopic.php?t=329313)
