@@ -34,8 +34,11 @@ Here is a link of available downloads found from the net but nothing has been te
 * [NEM-4_0403_Ngage.exe](http://www.4shared.com/file/FGyn2kWL/NEM-4_0403_Ngage.html)
 * [Collection of Nokia's firmware (seems dead)](http://forum.gsmhosting.com/vbb/6329670-post3.html)
 
+# OS
 
-**Note:** The exe is a self-extracting zip
+While not the exact version that the n-gage runned and without every n-gage specific modules, we can still download the source from Symbian OS as it was in 2010-2011 (7 years after the N-Gage)
+
+* [Symbian-dump](https://sourceforge.net/projects/symbiandump/)
 
 
 # Documentations
