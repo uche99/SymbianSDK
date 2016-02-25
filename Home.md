@@ -45,6 +45,8 @@ While not the exact version that the NG ran and without every NG specific module
 
 * [NQD service manual and schematics](http://www.cpkb.org/wiki/Nokia_N-Gage_QD_service_manual_and_schematics_download)
 * [NG SDK Reference & Other technical references](https://techwriter79.wikispaces.com/Nokia)
+    - [NG API Reference (all NG-specific headers)](https://techwriter79.wikispaces.com/file/view/Ngage_API_Reference.chm/555671371/Ngage_API_Reference.chm)
+    - [NG Example Reference (headers only - source is available in the SDK)](https://techwriter79.wikispaces.com/file/view/Ngage_Examples.chm/555671383/Ngage_Examples.chm)
 * [NG SDK install guide](https://techwriter79.wikispaces.com/file/view/NGage_SDK_2.1_Installation_Guide.pdf)
 * [Archive of Symbian C++ docs](http://web.archive.org/web/20141028092534/http://developer.nokia.com/community/wiki/Symbian_C%2B%2B)
 
