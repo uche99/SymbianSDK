@@ -41,7 +41,7 @@ While not the exact version that the NG ran and without every NG specific module
 * [Symbian-dump](https://sourceforge.net/projects/symbiandump/)
 
 
-# Documentations
+# Documentation
 
 * [NQD service manual and schematics](http://www.cpkb.org/wiki/Nokia_N-Gage_QD_service_manual_and_schematics_download)
 * [NG SDK Reference & Other technical references](https://techwriter79.wikispaces.com/Nokia)
@@ -49,12 +49,16 @@ While not the exact version that the NG ran and without every NG specific module
     - [NG Example Reference (headers only - source is available in the SDK)](https://techwriter79.wikispaces.com/file/view/Ngage_Examples.chm/555671383/Ngage_Examples.chm)
 * [NG SDK install guide](https://techwriter79.wikispaces.com/file/view/NGage_SDK_2.1_Installation_Guide.pdf)
 * [Archive of Symbian C++ docs](http://web.archive.org/web/20141028092534/http://developer.nokia.com/community/wiki/Symbian_C%2B%2B)
+* [.sis file format documentation](http://www.thoukydides.webspace.virginmedia.com/sis.html)
+* [Primer on reversing Symbian S60 Applications by Shub Nigurrath v14](https://mega.nz/#!pIYQxBLQ!dXoXBt2_kjmJ4RHmRDrSreZn9c1U3oTJ-WYbSDbKqu8)
 
+# IDA
+* [Import idts](https://mega.nz/#!pIYQxBLQ!dXoXBt2_kjmJ4RHmRDrSreZn9c1U3oTJ-WYbSDbKqu8) (place in /IDA/ids/epoc6/arm/)
+  - Generated from 3rd Edition Symbian S60 SDK (need N-Gage SDK for accurate generation)
 
 # Tools
 
 * [Sisexplorer, open and explore .sis files](http://www.symbian-toys.com/sisxplorer.aspx)
-
 
 # Miscellaneous
 
