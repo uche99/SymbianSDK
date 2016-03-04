@@ -54,7 +54,7 @@ While not the exact version that the NG ran and without every NG specific module
 * [Symbian OS Explained: Effective C++ Programming For Smartphones](http://g-02.ebooks-it.org/e-books/wiley/Wiley.Symbian.OS.Explained.Jan.2005.ISBN.0470021306.pdf?l=Sj-Kh7qEEUDqkpLqhiMbFQ)
 
 # IDA
-* [Import idts](https://mega.nz/#!pIYQxBLQ!dXoXBt2_kjmJ4RHmRDrSreZn9c1U3oTJ-WYbSDbKqu8) (place in /IDA/ids/epoc6/arm/)
+* [Import ids](https://mega.nz/#!EdRViIpR!a_b0y4lw2tufpvu6hDSahpqFXJDZ44E5kqam9AstNvA) (place in /IDA/ids/epoc6/arm/)
   - Generated from 3rd Edition Symbian S60 SDK (need N-Gage SDK for accurate generation)
 
 # Tools
