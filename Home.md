@@ -54,7 +54,7 @@ While not the exact version that the NG ran and without every NG specific module
 # File Format Specs
 
 * [E32Image (.app)](https://web.archive.org/web/20091213034509/http://wiki.forum.nokia.com/index.php/E32Image) 
-* [Symbian Sis file (.sis) before Symbian 9.1](http://www.thoukydides.webspace.virginmedia.com/sis.html)
+* [Symbian Sis file before Symbian 9.1 (.sis)](http://www.thoukydides.webspace.virginmedia.com/sis.html)
 * [Symbian Multibitmap (.mbm)](http://fileformats.archiveteam.org/wiki/EPOC_MBM)
 * [Symbian Application Information File (.aif)](http://fileformats.archiveteam.org/wiki/EPOC_AIF)
 
