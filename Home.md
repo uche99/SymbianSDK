@@ -10,12 +10,10 @@ NG = N-Gage, NGQD = N-Gage QD
 
 # CPU
 
-
 * [ARM920T Technical Reference Manual](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.ddi0151c/I71066.html) 
-
+* [ARMv4 Architecture Reference Manual](https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/third-party/archives/ddi0100e_arm_arm.pdf)
 
 # SDK
-
 
 A N-Gage SDK existed and even had multiple version but it was not obtainable without a contract with Nokia but the the reference and the install guide of the N-Gage sdk are available (see "Documentation"). The N-Gage being a part of the s60 phone series, there is a chance we could use / gain some information from the s60 SDK.
 
