@@ -47,11 +47,18 @@ While not the exact version that the NG ran and without every NG specific module
     - [NG Example Reference (headers only - source is available in the SDK)](https://techwriter79.wikispaces.com/file/view/Ngage_Examples.chm/555671383/Ngage_Examples.chm)
 * [NG SDK install guide](https://techwriter79.wikispaces.com/file/view/NGage_SDK_2.1_Installation_Guide.pdf)
 * [Archive of Symbian C++ docs](http://web.archive.org/web/20141028092534/http://developer.nokia.com/community/wiki/Symbian_C%2B%2B)
-* [.sis file format documentation](http://www.thoukydides.webspace.virginmedia.com/sis.html)
 * [Primer on reversing Symbian S60 Applications by Shub Nigurrath v14](https://mega.nz/#!pIYQxBLQ!dXoXBt2_kjmJ4RHmRDrSreZn9c1U3oTJ-WYbSDbKqu8)
-* [E32Image file format (.app)](https://web.archive.org/web/20091213034509/http://wiki.forum.nokia.com/index.php/E32Image)
 * [Symbian OS Internals: Real-time Kernel Programming](http://citeseerx.ist.psu.edu/viewdoc/download?rep=rep1&type=pdf&doi=10.1.1.168.3691)
 * [Symbian OS Explained: Effective C++ Programming For Smartphones](http://g-02.ebooks-it.org/e-books/wiley/Wiley.Symbian.OS.Explained.Jan.2005.ISBN.0470021306.pdf?l=Sj-Kh7qEEUDqkpLqhiMbFQ)
+
+# File format specifications
+
+* [E32Image (.app)](https://web.archive.org/web/20091213034509/http://wiki.forum.nokia.com/index.php/E32Image) 
+* [Symbian Sis file (.sis) before Symbian 9.1](http://www.thoukydides.webspace.virginmedia.com/sis.html)
+* [Symbian Multibitmap (.mbm)](http://fileformats.archiveteam.org/wiki/EPOC_MBM)
+* [Symbian Application Information File (.aif)](http://fileformats.archiveteam.org/wiki/EPOC_AIF)
+
+**Note:** MBM files present in n-gage roms can be extracted using the mbmconv.exe found in the s60 SDK
 
 # IDA
 * [Import ids](https://mega.nz/#!EdRViIpR!a_b0y4lw2tufpvu6hDSahpqFXJDZ44E5kqam9AstNvA) (place in /IDA/ids/epoc6/arm/)
