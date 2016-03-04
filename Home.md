@@ -51,6 +51,7 @@ While not the exact version that the NG ran and without every NG specific module
 * [Archive of Symbian C++ docs](http://web.archive.org/web/20141028092534/http://developer.nokia.com/community/wiki/Symbian_C%2B%2B)
 * [.sis file format documentation](http://www.thoukydides.webspace.virginmedia.com/sis.html)
 * [Primer on reversing Symbian S60 Applications by Shub Nigurrath v14](https://mega.nz/#!pIYQxBLQ!dXoXBt2_kjmJ4RHmRDrSreZn9c1U3oTJ-WYbSDbKqu8)
+* [E32Image file format (.app)](https://web.archive.org/web/20091213035846/http://wiki.forum.nokia.com/index.php/E32Image_file_format_on_pre-Symbian_OS_9)
 
 # IDA
 * [Import idts](https://mega.nz/#!pIYQxBLQ!dXoXBt2_kjmJ4RHmRDrSreZn9c1U3oTJ-WYbSDbKqu8) (place in /IDA/ids/epoc6/arm/)
