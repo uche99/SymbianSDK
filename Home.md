@@ -51,7 +51,7 @@ While not the exact version that the NG ran and without every NG specific module
 * [Symbian OS Internals: Real-time Kernel Programming](http://citeseerx.ist.psu.edu/viewdoc/download?rep=rep1&type=pdf&doi=10.1.1.168.3691)
 * [Symbian OS Explained: Effective C++ Programming For Smartphones](http://g-02.ebooks-it.org/e-books/wiley/Wiley.Symbian.OS.Explained.Jan.2005.ISBN.0470021306.pdf?l=Sj-Kh7qEEUDqkpLqhiMbFQ)
 
-# File format specifications
+# File Format Specs
 
 * [E32Image (.app)](https://web.archive.org/web/20091213034509/http://wiki.forum.nokia.com/index.php/E32Image) 
 * [Symbian Sis file (.sis) before Symbian 9.1](http://www.thoukydides.webspace.virginmedia.com/sis.html)
