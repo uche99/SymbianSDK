@@ -21,7 +21,6 @@ A N-Gage SDK existed and even had multiple version but it was not obtainable wit
 * [s60 SDK v5](http://www.mediafire.com/download/mbahmx9nyry45vj/S60_5th_SDK_ASP_v1.0.1.zip)
 * [Archive of Nokia's Tools and SDKs](https://www.mediafire.com/folder/79jhy594xb3uk/Symbian_Development)
 
-
 # Firmware
 
 The version 4.03 is the most available version to download. Versions 4.10 and 4.11 also seems to exist but have problems ([source](http://my-symbian.com/forum/viewtopic.php?t=19466))
@@ -66,6 +65,7 @@ While not the exact version that the NG ran and without every NG specific module
 
 # Tools
 
+* [Ensymble: python toolss for making Python for S60 (PyS60) programs](https://code.google.com/archive/p/ensymble/)
 * [Sisexplorer, open and explore .sis files](http://www.symbian-toys.com/sisxplorer.aspx)
 
 # Miscellaneous
