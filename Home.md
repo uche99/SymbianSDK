@@ -17,12 +17,10 @@ NG = N-Gage, NGQD = N-Gage QD
 
 A N-Gage SDK existed and even had multiple version but it was not obtainable without a contract with Nokia but the the reference and the install guide of the N-Gage sdk are available (see "Documentation"). The N-Gage being a part of the s60 phone series, there is a chance we could use / gain some information from the s60 SDK.
 
+* [s60 SDK v1](https://mega.nz/#!Tw4V3ILJ!hLaHP33Yt6X2W0wOrIRoHYmBwAtkYWfDIqk5H3Fj6xk)
 * [s60 SDK v2](https://mega.co.nz/#!dRZC1QDQ!jkjYA5aMv8uPc3H7gR37XLbkD_Istm62skstwzIiPec)
 * [s60 SDK v5](http://www.mediafire.com/download/mbahmx9nyry45vj/S60_5th_SDK_ASP_v1.0.1.zip)
 * [Archive of Nokia's Tools and SDKs](https://www.mediafire.com/folder/79jhy594xb3uk/Symbian_Development)
-
-**Note**: The N-Gage was part of the 1st Edition of the s60 series, so the oldest the sdk is the more close it is to the N-Gage SDK.
-
 
 # SDK Tools source code
 
