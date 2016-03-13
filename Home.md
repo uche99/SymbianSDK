@@ -73,6 +73,7 @@ While not the exact version that the NG ran and without every NG specific module
 
 # Tools
 
+* [Backup of Accessroot Arteam's Symbian tools and tutorials](https://mega.nz/#!j8gQVABI!MOWKcTM61x87IIau0QdFYLeVVjpamCuiyFafR3OFSmI)
 * [Backup of Accessroot Arteam's tools and tutorials](https://mega.nz/#!v9ZAGLAQ!TTquoYgJCkWTDmOdxv0AU18x8sOpAKYMJ43-jNG0jbE)
 * [Ensymble: python toolss for making Python for S60 (PyS60) programs](https://code.google.com/archive/p/ensymble/)
 * [Ensybmle unofficial github mirror](https://github.com/essaic/ensymble/)
