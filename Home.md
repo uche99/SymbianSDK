@@ -35,8 +35,10 @@ The version 4.03 is the most available version to download. Versions 4.10 and 4.
 Here is a link of available downloads found from the net but nothing has been tested:
 
 * [NG 4.03 Flash Files](http://www.freeflashfile.com/nokia.php?opt=bm9raWEvRENUNC9OR0FHRS5ORU0tNA%3D%3D)
-* [NEM-4_0403_Ngage.exe](http://www.4shared.com/file/FGyn2kWL/NEM-4_0403_Ngage.html)
+* [NEM-4_0403_Ngage.exe (for phoenix)](http://www.4shared.com/file/FGyn2kWL/NEM-4_0403_Ngage.html)
 * [Collection of Nokia's firmware (seems dead)](http://forum.gsmhosting.com/vbb/6329670-post3.html)
+
+* [Phoenix - Nokia's firmware flashing tool (not tested)](http://www.allmobiletools.net/2014/12/nokia-phoenix-service-software-201415.html)
 
 # OS
 
