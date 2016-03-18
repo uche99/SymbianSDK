@@ -38,7 +38,8 @@ Here is a link of available downloads found from the net but nothing has been te
 * [NEM-4_0403_Ngage.exe (for phoenix)](http://www.4shared.com/file/FGyn2kWL/NEM-4_0403_Ngage.html)
 * [Collection of Nokia's firmware (seems dead)](http://forum.gsmhosting.com/vbb/6329670-post3.html)
 
-* [Phoenix - Nokia's firmware flashing tool (not tested)](http://www.allmobiletools.net/2014/12/nokia-phoenix-service-software-201415.html)
+flashing tool:
+* [Phoenix - Nokia's firmware flashing tool (untested)](http://www.allmobiletools.net/2014/12/nokia-phoenix-service-software-201415.html)
 
 # OS
 
