@@ -7,8 +7,8 @@ NG = N-Gage, NGQD = N-Gage QD
 * [NGQD Wikipedia article](https://en.wikipedia.org/wiki/N-Gage_QD)
 * [NQD User manual](http://www.manualslib.com/manual/112327/Nokia-N-Gage-Qd.html?page=4#manual)
 * [NQD service manual and schematics](http://www.cpkb.org/wiki/Nokia_N-Gage_QD_service_manual_and_schematics_download)
-* [Nokia's NQ specs](http://web.archive.org/web/20040604111114/http://www.n-gage.com/en-R1/gamedeck/ngage/techspex/)
-* [Nokia's NQD specs](http://web.archive.org/web/20080115210709/http://www.n-gage.com/en-R1/gamedeck/ngage_qd/techspex/)
+* [Nokia's NGQ specs](http://web.archive.org/web/20040604111114/http://www.n-gage.com/en-R1/gamedeck/ngage/techspex/)
+* [Nokia's NGQD specs](http://web.archive.org/web/20080115210709/http://www.n-gage.com/en-R1/gamedeck/ngage_qd/techspex/)
 
 # CPU
 
