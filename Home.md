@@ -76,7 +76,7 @@ While not the exact version that the NG ran and without every NG specific module
 * [Import ids](https://mega.nz/#!EdRViIpR!a_b0y4lw2tufpvu6hDSahpqFXJDZ44E5kqam9AstNvA) (place in /IDA/ids/epoc6/arm/)
   - Generated from 3rd Edition Symbian S60 SDK (need N-Gage SDK for accurate generation)
 
-**Note:** The ids files from arteam (see "Tools") is more close to what the N-Gage used and give better results with NG executables.
+**Note:** The ids files from arteam (see "Tools") are more close to what the N-Gage used and give better results with NG executables.
 
 # Tools
 
