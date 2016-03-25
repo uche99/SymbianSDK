@@ -1,4 +1,4 @@
-This is the list of muleUsing the emulator to list all modules existing in all the correctly loading .exe/.dll/.app files found in all the N-Gage roms give us this:
+This is the list of modules found using the emulator on all the correctly loading .exe/.dll/.app files found in all the N-Gage roms:
 
 ```aflogg36
 AFLOGG37
