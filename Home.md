@@ -45,10 +45,12 @@ flashing tool:
 
 # OS
 
-While not the exact version that the NG ran and without every NG specific modules, we can still download the source from Symbian OS as it was in 2010-2011 (7 years after the NG)
+While not the exact version that the NG ran and without every NG specific modules, we can still download the source from Symbian OS as it was in 2010-2011 (7 years after the NG). PDK = Platform Development Kit, PDT = Product Development Kit.
 
-* [Symbian-dump](https://sourceforge.net/projects/symbiandump/)
-
+* [PDK 3.0.4a](http://akawolf.org/)
+* [PDK 4.0.a](http://akawolf.org/)
+* [PDK 4.0.a + docs (don't use this for the pdk)](https://sourceforge.net/projects/symbiandump/)
+* [PDT 1.7.0](http://akawolf.org/)
 
 # Documentation
 
@@ -61,6 +63,7 @@ While not the exact version that the NG ran and without every NG specific module
 * [Primer on reversing Symbian S60 Applications by Shub Nigurrath v14](https://mega.nz/#!pIYQxBLQ!dXoXBt2_kjmJ4RHmRDrSreZn9c1U3oTJ-WYbSDbKqu8)
 * [Symbian OS Internals: Real-time Kernel Programming](http://citeseerx.ist.psu.edu/viewdoc/download?rep=rep1&type=pdf&doi=10.1.1.168.3691)
 * [Symbian OS Explained: Effective C++ Programming For Smartphones](http://g-02.ebooks-it.org/e-books/wiley/Wiley.Symbian.OS.Explained.Jan.2005.ISBN.0470021306.pdf?l=Sj-Kh7qEEUDqkpLqhiMbFQ)
+* [Mirror of the Symbian Wiki (after Symbian^3)](https://akawolf.org/wiki/index.php/Main_Page)
 
 # File Format Specs
 
@@ -88,5 +91,6 @@ While not the exact version that the NG ran and without every NG specific module
 
 # Miscellaneous
 
+* [Mirror of Symbian mercurial reopository](http://akawolf.org/oss/)
 * [[Ru] Install a game on a N-Gage](http://rutracker.org/forum/viewtopic.php?t=329313)
 * [Create a sis app using python](http://www.mobilenin.com/pys60/info_standalone_application.htm)
