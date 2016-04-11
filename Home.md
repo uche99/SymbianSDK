@@ -19,8 +19,8 @@ NG = N-Gage, NGQD = N-Gage QD
 
 A N-Gage SDK existed and even had multiple version but it was not obtainable without a contract with Nokia but the the reference and the install guide of the N-Gage sdk are available (see "Documentation"). The N-Gage being a part of the s60 phone series, there is a chance we could use / gain some information from the s60 SDK.
 
-* [s60 SDK v1.2 - 5th June 2003](https://mega.nz/#!Tw4V3ILJ!hLaHP33Yt6X2W0wOrIRoHYmBwAtkYWfDIqk5H3Fj6xk)
-* [s60 SDK v2 FP2 Codewarrior beta support - 9 October 2004](https://mega.co.nz/#!dRZC1QDQ!jkjYA5aMv8uPc3H7gR37XLbkD_Istm62skstwzIiPec)
+* [s60 SDK v1.2](https://mega.nz/#!Tw4V3ILJ!hLaHP33Yt6X2W0wOrIRoHYmBwAtkYWfDIqk5H3Fj6xk)
+* [s60 SDK v2 FP2 Codewarrior beta support](https://mega.co.nz/#!dRZC1QDQ!jkjYA5aMv8uPc3H7gR37XLbkD_Istm62skstwzIiPec)
 * [s60 SDK v2 FP2 visual c++ and borland c++ support](http://www.mediafire.com/download/6ktbu177ehnfi8m/s60_2nd_fp2_sdk_msb.zip)
 * [s60 SDK v2.1 .NET](http://www.mediafire.com/download/87ul661njioxzx7/S60_SDK_2_1_NET.zip)
 * [s60 SDK v3 1.0](http://www.mediafire.com/download/kc94rnlrrs1wh90/S60_3rd_SDK_v1.0.zip)
