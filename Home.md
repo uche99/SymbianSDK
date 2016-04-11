@@ -25,7 +25,6 @@ A N-Gage SDK existed and even had multiple version but it was not obtainable wit
 * [s60 SDK v2 FP2 visual c++ and borland c++ support](http://www.mediafire.com/download/6ktbu177ehnfi8m/s60_2nd_fp2_sdk_msb.zip)
 * [s60 SDK v2.1 .NET](http://www.mediafire.com/download/87ul661njioxzx7/S60_SDK_2_1_NET.zip)
 * [s60 SDK v3 1.0](http://www.mediafire.com/download/kc94rnlrrs1wh90/S60_3rd_SDK_v1.0.zip)
-* [s60 SDK v3 1.0 en](http://www.mediafire.com/download/3g3e3ayb3lxqngc/Symbian_3_SDK_v1_0_en.zip)
 * [s60 SDK v3.1](http://www.mediafire.com/download/9uc7fjb2ynmxlud/s60v3.1_SDK.zip)
 * [s60 SDK v3.2 1.11 en](http://www.mediafire.com/download/ilem6w0xxjm515m/S60_SDK_3.2_v1.1.1_en.zip)
 * [s60 SDK v5 ASP](http://www.mediafire.com/download/mbahmx9nyry45vj/S60_5th_SDK_ASP_v1.0.1.zip)
