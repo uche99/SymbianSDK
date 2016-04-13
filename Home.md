@@ -92,6 +92,7 @@ While not the exact version that the NG ran and without every NG specific module
 
 # Tools
 
+* [NGQD Software Support software](http://www.mediafire.com/download/pxdrmfrdy7rvi5p/install.N-GAGE.QD.iso.7z)
 * [Backup of Accessroot Arteam's Symbian tools and tutorials](https://mega.nz/#!j8gQVABI!MOWKcTM61x87IIau0QdFYLeVVjpamCuiyFafR3OFSmI)
 * [Backup of Accessroot Arteam's tools and tutorials](https://mega.nz/#!v9ZAGLAQ!TTquoYgJCkWTDmOdxv0AU18x8sOpAKYMJ43-jNG0jbE)
 * [Ensymble: python toolss for making Python for S60 (PyS60) programs](https://code.google.com/archive/p/ensymble/)
@@ -100,6 +101,8 @@ While not the exact version that the NG ran and without every NG specific module
 
 # Miscellaneous
 
+* [Beta version of Sonic N for N-Gage](http://www.mediafire.com/download/3qjmsy8mz1ajs23/Sonic_N_%28UE%29%28Beta%29%28IND%29.rar)
+* [Prototype of Payload (an NG game)](http://www.mediafire.com/download/pgm5zcjjt5d13p7/Payload_%28Prototype%29.rar)
 * [Mirror of Symbian mercurial reopository](http://akawolf.org/oss/)
 * [[Ru] Install a game on a N-Gage](http://rutracker.org/forum/viewtopic.php?t=329313)
 * [Create a sis app using python](http://www.mobilenin.com/pys60/info_standalone_application.htm)
