@@ -73,6 +73,7 @@ While not the exact version that the NG ran and without every NG specific module
 * [Symbian OS Internals: Real-time Kernel Programming](http://citeseerx.ist.psu.edu/viewdoc/download?rep=rep1&type=pdf&doi=10.1.1.168.3691)
 * [Symbian OS Explained: Effective C++ Programming For Smartphones](http://g-02.ebooks-it.org/e-books/wiley/Wiley.Symbian.OS.Explained.Jan.2005.ISBN.0470021306.pdf?l=Sj-Kh7qEEUDqkpLqhiMbFQ)
 * [Mirror of the Symbian Wiki (after Symbian^3)](https://akawolf.org/wiki/index.php/Main_Page)
+* [From 0 to 0 days on Symbian](https://www.sec-consult.com/fxdata/seccons/prod/downloads/sec_consult_vulnerability_lab_pwning_symbian_v105_public.pdf)
 
 # File Format Specs
 
