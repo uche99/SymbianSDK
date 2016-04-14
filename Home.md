@@ -86,8 +86,10 @@ While not the exact version that the NG ran and without every NG specific module
 **Note:** MBM files present in n-gage roms can be extracted using the mbmconv.exe found in the s60 SDK
 
 # IDA
-* [IDA Import IDs](https://mega.co.nz/#!QcpngByK!xy-w5KKOhUKvfH49710lwEw0WY3pa-XEv0it0qgvQZI) (place in /IDA/ids/epoc6/arm/)
+* [IDA Import IDs](https://mega.co.nz/#!QcpngByK!xy-w5KKOhUKvfH49710lwEw0WY3pa-XEv0it0qgvQZI)
   - Generated from 1st Edition Symbian S60 SDK
+
+**How to use:** Unzip the default ids from %ida%/ids/epoch6.zip, unzip the downloaded archive, copy the content of the downloaded archive in epoch6/arm and if it ask you, overwritte already existing files. Re-zip the epoch6 folder and start/restart ida pro.
 
 **Note:** These IDs are more close to what N-Gage had compared to the default (and ARTeam) IDs. N-Gage SDK is still needed for fully complete and accurate generation of the ID files.
 
