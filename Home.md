@@ -28,10 +28,17 @@ A N-Gage SDK existed and even had multiple version but it was not obtainable wit
 * [s60 SDK v3.1](http://www.mediafire.com/download/9uc7fjb2ynmxlud/s60v3.1_SDK.zip)
 * [s60 SDK v3.2 1.11 en](http://www.mediafire.com/download/ilem6w0xxjm515m/S60_SDK_3.2_v1.1.1_en.zip)
 * [s60 SDK v5 ASP](http://www.mediafire.com/download/mbahmx9nyry45vj/S60_5th_SDK_ASP_v1.0.1.zip)
+* More sdks contained in the CDs (see next section)
 
 Archives:
 * [Archive of Nokia's Tools and SDKs](https://www.mediafire.com/folder/79jhy594xb3uk/Symbian_Development)
 * [Other archive of SDK](https://www.mediafire.com/?lyq486h09nhq5)
+
+# Developer Platform Tools and Resources
+
+A set of CDs containing tools and SDKs for developer. It's the 6th update to this set of CDS. Interestingly it contains a set of books about the N-Gage Arena which is one the n-gage specific feature.
+
+* [developer platform tools and resources](todo)
 
 # SDK Tools source code
 
