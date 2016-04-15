@@ -38,7 +38,7 @@ Archives:
 
 A set of CDs containing tools and SDKs for developer. It's the 6th update to this set of CDS. Interestingly it contains a set of books about the N-Gage Arena which is one the n-gage specific feature.
 
-* [developer platform tools and resources](todo)
+* [developer platform tools and resources](https://mega.nz/#!PxhA3JzT!RC1bXMbIvFsO3qeee2F22f5cvJLywUsn1uN3sKAa0pc)
 
 # SDK Tools source code
 
