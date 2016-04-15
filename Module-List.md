@@ -1,4 +1,4 @@
-This is the list of modules found using the emulator on all the correctly loading .exe/.dll/.app files found in all the N-Gage roms:
+This is the list of modules found using the emulator on all the correctly loading .exe/.dll/.app files found in all the N-Gage roms and their respective IDs in the emulator:
 
 |  ID  | Name |
 | ---- | ------------- |
