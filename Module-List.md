@@ -30,7 +30,7 @@ This is the list of modules found using the emulator on all the correctly loadin
 |      | ARENATERMINALCLIENTAPI |
 |      | AUDIOENGINE |
 |      | AVKON |
-|      | BAFL |
+| 0x02 | BAFL |
 |      | BIGINT |
 |      | BITGDI |
 |      | BLUETOOTH DLL |
@@ -59,7 +59,7 @@ This is the list of modules found using the emulator on all the correctly loadin
 |      | EFSRV |
 |      | EGUL |
 |      | EIKCOCTL |
-|      | EIKCORE |
+| 0x01 | EIKCORE |
 |      | EIKCTL |
 |      | EIKDLG |
 |      | ELOCL |
