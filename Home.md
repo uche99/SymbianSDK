@@ -113,6 +113,7 @@ While not the exact version that the NG ran and without every NG specific module
 
 * [Beta version of Sonic N for N-Gage](http://www.mediafire.com/download/3qjmsy8mz1ajs23/Sonic_N_%28UE%29%28Beta%29%28IND%29.rar)
 * [Prototype of Payload (an NG game)](http://www.mediafire.com/download/pgm5zcjjt5d13p7/Payload_%28Prototype%29.rar)
+* [https://github.com/martintrojer/qemu-syborg](https://github.com/martintrojer/qemu-syborg)
 * [Mirror of Symbian mercurial reopository](http://akawolf.org/oss/)
 * [[Ru] Install a game on a N-Gage](http://rutracker.org/forum/viewtopic.php?t=329313)
 * [Create a sis app using python](http://www.mobilenin.com/pys60/info_standalone_application.htm)
