@@ -23,7 +23,7 @@ FP: Feature Pack
 
 # Java MIDP SDKS
 | Version    | Release date  | Download |
-|------------|:-------------:|----------|
+|------------|-------------|----------|
 | s60 v1.0   | February 2003   | [link](https://mega.nz/#!TsUwSDID!NhCQDqF-rLTQAj4mLRl_VfwSa1oI2pYet2nE3UvM38c) |
 | s60 v1.2.1 | August 2003   | [link](https://mega.nz/#!X41j1bLS!dSXAIXpADo0tn6vSqJ07awC2IXfbxQtuj1nC9HrSCD4) |
 | s60 Concept Beta 0.3.1 | October 2003   | [link](https://mega.nz/#!DxN23a6Q!uCcIl3899FWsC8jEa4aYgG9RQHpg5ocav-4KmZj6SOE) |
