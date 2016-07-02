@@ -15,7 +15,7 @@ This is the list of modules found using the emulator on all the correctly loadin
 |      | APENGINE |
 |      | APGRFX |
 |      | APMIME |
-|      | APPARC |
+| 0x03 | APPARC |
 |      | arenaba36 |
 |      | ARENABA37 |
 |      | arenaba49 |
