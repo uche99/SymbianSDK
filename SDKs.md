@@ -1,5 +1,7 @@
 An attempt at collecting and organizing infos about SDKs.
 
+
+
 # S60 SDKs
 
 | Version   | OS            | Release date  | Download |
@@ -15,4 +17,15 @@ An attempt at collecting and organizing infos about SDKs.
 
 Source: http://web.archive.org/web/20050828073141/http://www.symbian.com/developer/sdks.asp
 
-FP = Feature Pack
+Nokia edition: Sometimes it's using visual c++, sometimes it's using Carbide c++
+
+FP: Feature Pack
+
+# Java MIDP SDKS
+| Version    | Release date  | Download |
+|------------|:-------------:|----------|
+| s60 v1.0   | February 2003   | [link](https://mega.nz/#!TsUwSDID!NhCQDqF-rLTQAj4mLRl_VfwSa1oI2pYet2nE3UvM38c) |
+| s60 v1.2.1 | August 2003   | [link](https://mega.nz/#!X41j1bLS!dSXAIXpADo0tn6vSqJ07awC2IXfbxQtuj1nC9HrSCD4) |
+| s60 Concept Beta 0.3.1 | October 2003   | [link](https://mega.nz/#!DxN23a6Q!uCcIl3899FWsC8jEa4aYgG9RQHpg5ocav-4KmZj6SOE) |
+| s90 Concept Beta 0.1   | October 2003   | [link](https://mega.nz/#!7xM0HK6B!j8rViLGum8QBaGPOpZuKKCyVKyhPElWa6Da2UYlSC8I) |
+
