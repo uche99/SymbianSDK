@@ -1,4 +1,7 @@
-NG = N-Gage, NGQD = N-Gage QD
+N-Gage is a handheld console released by Nokia in 2003. Its original development codename was "Starship".
+
+NG = N-Gage  
+NGQD = N-Gage QD
 
 
 # Descriptions
@@ -17,14 +20,14 @@ NG = N-Gage, NGQD = N-Gage QD
 
 # SDK
 
-A N-Gage SDK existed and even had multiple version but it was not obtainable without a contract with Nokia but the the reference and the install guide of the N-Gage sdk are available (see "Documentation"). The N-Gage being a part of the s60 phone series, there is a chance we could use / gain some information from the s60 SDK.
+A N-Gage SDK existed and even had multiple version but it was not obtainable without a contract with Nokia but the reference and the install guide of the N-Gage SDK are available (see "Documentation"). The N-Gage being a part of the s60 phone series, there is a chance we could use/gain some information from the s60 SDK.
 
 More Detailed page: [[Symbian SDKS]]
 
 * [s60 SDK v0.9 (may be incomplete)](http://www.mediafire.com/download/18n6wo75k0svknt/_s60+0.9+sdk.zip)
 * [s60 SDK v1.2](https://mega.nz/#!Tw4V3ILJ!hLaHP33Yt6X2W0wOrIRoHYmBwAtkYWfDIqk5H3Fj6xk)
 * [s60 SDK v2 FP2 Codewarrior beta support](https://mega.co.nz/#!dRZC1QDQ!jkjYA5aMv8uPc3H7gR37XLbkD_Istm62skstwzIiPec)
-* [s60 SDK v2 FP2 visual c++ and borland c++ support](http://www.mediafire.com/download/6ktbu177ehnfi8m/s60_2nd_fp2_sdk_msb.zip)
+* [s60 SDK v2 FP2 Visual C++ and Borland C++ support](http://www.mediafire.com/download/6ktbu177ehnfi8m/s60_2nd_fp2_sdk_msb.zip)
 * [s60 SDK v2.1 .NET](http://www.mediafire.com/download/87ul661njioxzx7/S60_SDK_2_1_NET.zip)
 * [s60 SDK v3 1.0](http://www.mediafire.com/download/kc94rnlrrs1wh90/S60_3rd_SDK_v1.0.zip)
 * [s60 SDK v3.1](http://www.mediafire.com/download/9uc7fjb2ynmxlud/s60v3.1_SDK.zip)
@@ -54,6 +57,7 @@ The version 4.03 is the most available version to download. Versions 4.10 and 4.
 
 Here is a link of available downloads found from the net but nothing has been tested:
 
+* [Collection of firmware files](http://fivedots.coe.psu.ac.th/~anucha/PCB/SF%20Bus%20V.7/%E2%BB%C3%E1%A1%C3%C1%E0%C5%D7%CD%A1%CB%D1%C7%E1%BF%C5%AA%20SFBUS%20V7/2.0/Flash/)
 * [NG 4.03 Flash Files](http://www.freeflashfile.com/nokia.php?opt=bm9raWEvRENUNC9OR0FHRS5ORU0tNA%3D%3D)
 * [NEM-4_0403_Ngage.exe (for phoenix)](http://www.4shared.com/file/FGyn2kWL/NEM-4_0403_Ngage.html)
 * [Collection of Nokia's firmware (seems dead)](http://forum.gsmhosting.com/vbb/6329670-post3.html)
@@ -63,7 +67,10 @@ flashing tool:
 
 # OS
 
-While not the exact version that the NG ran and without every NG specific modules, we can still download the source from Symbian OS as it was in 2010-2011 (7 years after the NG). PDK = Platform Development Kit, PDT = Product Development Kit.
+While not the exact version that the NG ran and without every NG specific modules, we can still download the source from Symbian OS as it was in 2010-2011 (7 years after the NG).
+
+PDK = Platform Development Kit  
+PDT = Product Development Kit
 
 * [PDK 3.0.4a](http://akawolf.org/)
 * [PDK 4.0.a](http://akawolf.org/)
@@ -92,7 +99,7 @@ While not the exact version that the NG ran and without every NG specific module
 * [Symbian Multibitmap (.mbm)](http://fileformats.archiveteam.org/wiki/EPOC_MBM)
 * [Symbian Application Information File (.aif)](http://fileformats.archiveteam.org/wiki/EPOC_AIF)
 
-**Note:** MBM files present in n-gage roms can be extracted using the mbmconv.exe found in the s60 SDK
+**Note:** MBM files present in NG roms can be extracted using the mbmconv.exe found in the s60 SDK
 
 # IDA
 * [IDA Import IDs](https://mega.co.nz/#!QcpngByK!xy-w5KKOhUKvfH49710lwEw0WY3pa-XEv0it0qgvQZI)
