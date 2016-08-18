@@ -80,9 +80,9 @@ PDT = Product Development Kit
 # Documentation
 
 * [NQD service manual and schematics](http://www.cpkb.org/wiki/Nokia_N-Gage_QD_service_manual_and_schematics_download)
-* [NG SDK Reference & Other technical references](https://techwriter79.wikispaces.com/Nokia)
-    - [NG API Reference (all NG-specific headers)](https://techwriter79.wikispaces.com/file/view/Ngage_API_Reference.chm/555671371/Ngage_API_Reference.chm)
-    - [NG Example Reference (headers only - source is available in the SDK)](https://techwriter79.wikispaces.com/file/view/Ngage_Examples.chm/555671383/Ngage_Examples.chm)
+* [NG (service) SDK Reference & Other technical references](https://techwriter79.wikispaces.com/Nokia)
+    - [NG (service) API Reference (all NG-specific headers)](https://techwriter79.wikispaces.com/file/view/Ngage_API_Reference.chm/555671371/Ngage_API_Reference.chm)
+    - [NG (service) Example Reference (headers only - source is available in the SDK)](https://techwriter79.wikispaces.com/file/view/Ngage_Examples.chm/555671383/Ngage_Examples.chm)
 * [NG SDK install guide](https://techwriter79.wikispaces.com/file/view/NGage_SDK_2.1_Installation_Guide.pdf)
 * [Archive of Symbian C++ docs](http://web.archive.org/web/20141028092534/http://developer.nokia.com/community/wiki/Symbian_C%2B%2B)
 * [Primer on reversing Symbian S60 Applications by Shub Nigurrath v14](https://mega.nz/#!pIYQxBLQ!dXoXBt2_kjmJ4RHmRDrSreZn9c1U3oTJ-WYbSDbKqu8)
@@ -114,7 +114,7 @@ PDT = Product Development Kit
 * [NGQD Software Support software](http://www.mediafire.com/download/pxdrmfrdy7rvi5p/install.N-GAGE.QD.iso.7z)
 * [Backup of Accessroot Arteam's Symbian tools and tutorials](https://mega.nz/#!j8gQVABI!MOWKcTM61x87IIau0QdFYLeVVjpamCuiyFafR3OFSmI)
 * [Backup of Accessroot Arteam's tools and tutorials](https://mega.nz/#!v9ZAGLAQ!TTquoYgJCkWTDmOdxv0AU18x8sOpAKYMJ43-jNG0jbE)
-* [Ensymble: python toolss for making Python for S60 (PyS60) programs](https://code.google.com/archive/p/ensymble/)
+* [Ensymble: python tools for making Python for S60 (PyS60) programs](https://code.google.com/archive/p/ensymble/)
 * [Ensybmle unofficial github mirror](https://github.com/essaic/ensymble/)
 * [Sisexplorer, open and explore .sis files](http://www.symbian-toys.com/sisxplorer.aspx)
 
