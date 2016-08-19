@@ -57,9 +57,10 @@ The version 4.03 is the most available version to download. Versions 4.10 and 4.
 
 Here is a link of available downloads found from the net but nothing has been tested:
 
-* [Collection of firmware files](http://fivedots.coe.psu.ac.th/~anucha/PCB/SF%20Bus%20V.7/%E2%BB%C3%E1%A1%C3%C1%E0%C5%D7%CD%A1%CB%D1%C7%E1%BF%C5%AA%20SFBUS%20V7/2.0/Flash/)
+* [Big collection of various N-Gage model flash files](https://mega.nz/#!oRhnwZ4C!kfq_qnCVwigVT1Oao7RhE__b8-54vJyhOIbqePcWlHs)
 * [NG 4.03 Flash Files](http://www.freeflashfile.com/nokia.php?opt=bm9raWEvRENUNC9OR0FHRS5ORU0tNA%3D%3D)
 * [NEM-4_0403_Ngage.exe (for phoenix)](http://www.4shared.com/file/FGyn2kWL/NEM-4_0403_Ngage.html)
+* [Collection of various unknown firmware files](http://fivedots.coe.psu.ac.th/~anucha/PCB/SF%20Bus%20V.7/%E2%BB%C3%E1%A1%C3%C1%E0%C5%D7%CD%A1%CB%D1%C7%E1%BF%C5%AA%20SFBUS%20V7/2.0/Flash/)
 * [Collection of Nokia's firmware (seems dead)](http://forum.gsmhosting.com/vbb/6329670-post3.html)
 
 flashing tool:
