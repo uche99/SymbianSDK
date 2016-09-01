@@ -3,6 +3,7 @@ N-Gage is a handheld console released by Nokia in 2003. Its original development
 NG = N-Gage  
 NGQD = N-Gage QD
 
+Repository of most files linked in this page: https://mega.nz/#F!m5FlQaLJ!_ibARdckbG1WN7Wp082OXg
 
 # Descriptions
 
