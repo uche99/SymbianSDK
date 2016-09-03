@@ -63,6 +63,10 @@ Here is a link of available downloads found from the net but nothing has been te
 * [NEM-4_0403_Ngage.exe (for phoenix)](http://www.4shared.com/file/FGyn2kWL/NEM-4_0403_Ngage.html)
 * [Collection of various unknown firmware files](http://fivedots.coe.psu.ac.th/~anucha/PCB/SF%20Bus%20V.7/%E2%BB%C3%E1%A1%C3%C1%E0%C5%D7%CD%A1%CB%D1%C7%E1%BF%C5%AA%20SFBUS%20V7/2.0/Flash/)
 * [Collection of Nokia's firmware (seems dead)](http://forum.gsmhosting.com/vbb/6329670-post3.html)
+* [FW_N-Gage Classic & QD](http://naufaladit.blogspot.ch/2011/02/point-blank.html)
+* [Nokia flash files](http://mobiteh.org/flash/mobile/nokia)
+* [NGQD firmware 4.6](http://www.freeflashfile.com/nokia/DCT4/NGAGEQD.RH-29/4.60/)
+* [NGQG firmware 4.26](http://www.freeflashfile.com/nokia/DCT4/NGAGEQD.RH-47/4.26/)
 
 flashing tool:
 * [Phoenix - Nokia's firmware flashing tool (untested)](http://www.allmobiletools.net/2014/12/nokia-phoenix-service-software-201415.html)
