@@ -46,11 +46,13 @@ A set of CDs containing tools and SDKs for developer. It's the 6th update to thi
 
 * [developer platform tools and resources](https://mega.nz/#!PxhA3JzT!RC1bXMbIvFsO3qeee2F22f5cvJLywUsn1uN3sKAa0pc)
 
+# Tools source code
+
+The source code of some useful application. Can be used to learn how some of them do some complex trick.
+
+* [Source of SysInfo60](https://mega.nz/#!bkVmSLyY!E1bc-79MoK89GggPRVWfgo6wXaiTEMacJXqhbBcaeTk).
+
 # SDK Tools source code
-
-The source code of multiple tools used to create Symbian applications (Petran, Bmv converter, Make sis) can be found on the web archive:
-
-* [Symbian OS Downloads](http://web.archive.org/web/20040219100337/http://symbianos.org/download/)
 
 # Firmware
 
