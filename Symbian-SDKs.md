@@ -1,3 +1,5 @@
+**EDIT**: A more complete, less n-gage focus version of this page can be found at [this link](https://mrrosset.github.io/Symbian-Archive/)
+
 An attempt at collecting and organizing infos about SDKs.
 
 **Note:** Most SDKs require you to have previously installed Java and ActivePerl. Beware, some of the oldest one don't tell you and you would need to fully uninstall and then install it again. For the s60 v1.2 SDK the specific java and activePerl required version can be found in the Mega folder in "Dependencies & IDE".
