@@ -54,6 +54,8 @@ The source code of some useful application. Can be used to learn how some of the
 
 # SDK Tools source code
 
+http://web.archive.org/web/20040219100337/http://symbianos.org/download/
+
 # Firmware
 
 The version 4.03 is the most available version to download. Versions 4.10 and 4.11 also seems to exist but have problems ([source](http://my-symbian.com/forum/viewtopic.php?t=19466))
