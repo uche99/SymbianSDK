@@ -34,6 +34,7 @@ More Detailed page: [[Symbian SDKS]]
 * [s60 SDK v3.1](http://www.mediafire.com/download/9uc7fjb2ynmxlud/s60v3.1_SDK.zip)
 * [s60 SDK v3.2 1.11 en](http://www.mediafire.com/download/ilem6w0xxjm515m/S60_SDK_3.2_v1.1.1_en.zip)
 * [s60 SDK v5 ASP](http://www.mediafire.com/download/mbahmx9nyry45vj/S60_5th_SDK_ASP_v1.0.1.zip)
+* [Belle SDK v1.0](http://www.mediafire.com/file/opi77jbdin2r4lv/Nokia_Symbian_Belle_v1.0.zip)
 * More sdks contained in the CDs (see next section)
 
 Archives:
