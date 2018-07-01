@@ -39,3 +39,8 @@ FP: Feature Pack
 | s60 Content Authoring SDK 1.2 | July 2003 | [link](https://mega.nz/#!i1FwnJzS!3-RYBCVkFoxQyQ6DooJLuDzJO332TvjrfZJqqibuQXk) |
 | Nokia Mobile Server Services SDK 1.2 | | [link](https://mega.nz/#!S58yGLJY!_M3hiFYEbmU6LoJug3bJrwwUOg8FnuTOp7PgtIex_fA) |
 
+### Belle SDKs
+
+| Version    | Download |
+|------------|----------|
+| Nokia Symbain Belle v1.0 | [link](http://www.mediafire.com/file/opi77jbdin2r4lv/Nokia_Symbian_Belle_v1.0.zip) |
